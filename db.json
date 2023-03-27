@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "1",
+      "password": "1",
+      "avatar": "https://i.ibb.co/5Wn7QQH/user-avatar.png",
+      "name": "Irvin"
+    },
+    {
+      "id": 2,
+      "email": "https://cdn.thredbo.com.au/wp-content/uploads/2017/03/07150540/Untitled-design-5-1500x900.jpg",
+      "password": "Super user2"
+    },
+    {
+      "id": 3,
+      "email": "https://cdn.thredbo.com.au/wp-content/uploads/2017/03/07150540/Untitled-design-5-1500x900.jpg",
+      "password": "Super user3"
+    },
+    {
+      "email": "se",
+      "password": "111111111",
+      "id": 4
+    },
+    {
+      "email": "ef",
+      "password": "wdqdwq",
+      "id": 5
+    },
+    {
+      "email": "seric0@mail.ru",
+      "password": "@123456s",
+      "id": 6
+    },
+    {
+      "email": "seric_s@mail.ru",
+      "password": "@123456s",
+      "id": 7
+    },
+    {
+      "email": "seric0@mail.ru",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "email": "12e223",
+      "password": "4324322234",
+      "id": 9
+    },
+    {
+      "email": "серик",
+      "password": "серик",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userimage": "https://pbs.twimg.com/media/DD93tVLUQAAbvtA?format=jpg&name=900x900",
+      "title": "11",
+      "usertext": "111"
+    },
+    {
+      "id": 2,
+      "userimage": "https://sun9-70.userapi.com/impg/CBNd4WyzhgW07joicO73dPRDbX9PpK00Zhxzjg/6krHls1a0aQ.jpg?size=1080x1080&quality=96&sign=fe7b9799015745c6feac86ceea357b1a&c_uniq_tag=VTZHRO18WK72ycF7vK4YnTjDFS6abGdP8fU3rFiwy_Q&type=album",
+      "title": "22",
+      "usertext": "222"
+    },
+    {
+      "id": 3,
+      "userimage": "https://i.ibb.co/Zc7DhMN/card-3.png",
+      "title": "This is cool story!",
+      "usertext": "333"
+    },
+    {
+      "id": 4,
+      "userimage": "https://sun9-70.userapi.com/impg/CBNd4WyzhgW07joicO73dPRDbX9PpK00Zhxzjg/6krHls1a0aQ.jpg?size=1080x1080&quality=96&sign=fe7b9799015745c6feac86ceea357b1a&c_uniq_tag=VTZHRO18WK72ycF7vK4YnTjDFS6abGdP8fU3rFiwy_Q&type=album",
+      "title": "",
+      "usertext": ""
+    },
+    {
+      "id": 5,
+      "userimage": "https://pbs.twimg.com/media/DD93tVLUQAAbvtA?format=jpg&name=900x900",
+      "title": "",
+      "usertext": ""
+    },
+    {
+      "id": 6,
+      "userimage": "https://i.ibb.co/z769Bjg/card-6.png",
+      "title": "",
+      "usertext": ""
+    },
+    {
+      "id": 7,
+      "userimage": "https://pbs.twimg.com/media/DD93tVLUQAAbvtA?format=jpg&name=900x900",
+      "title": "",
+      "usertext": ""
+    },
+    {
+      "id": 8,
+      "userimage": "https://i.ibb.co/z769Bjg/card-6.png",
+      "title": "",
+      "usertext": ""
+    },
+    {
+      "id": 9,
+      "userimage": "https://sun9-70.userapi.com/impg/CBNd4WyzhgW07joicO73dPRDbX9PpK00Zhxzjg/6krHls1a0aQ.jpg?size=1080x1080&quality=96&sign=fe7b9799015745c6feac86ceea357b1a&c_uniq_tag=VTZHRO18WK72ycF7vK4YnTjDFS6abGdP8fU3rFiwy_Q&type=album",
+      "title": "",
+      "usertext": ""
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=815b63b0fb67826e6dbfbd985e4a89fa-5697688-images-thumbs&n=13",
+      "title": "erwewr",
+      "usertext": "erwwwwwwwwwwwwwww",
+      "id": 10
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=815b63b0fb67826e6dbfbd985e4a89fa-5697688-images-thumbs&n=13",
+      "title": "erweerw",
+      "usertext": "weerwere",
+      "id": 11
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=815b63b0fb67826e6dbfbd985e4a89fa-5697688-images-thumbs&n=13",
+      "title": "3453543",
+      "usertext": "fefjhgjhfjhfhefke4y",
+      "id": 13
+    }
+  ]
+}
