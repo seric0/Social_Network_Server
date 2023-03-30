@@ -9,48 +9,66 @@
     },
     {
       "id": 2,
-      "email": "https://cdn.thredbo.com.au/wp-content/uploads/2017/03/07150540/Untitled-design-5-1500x900.jpg",
-      "password": "Super user2"
+      "email": "yomik458303@mitigado.com",
+      "password": "Super user2",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu82NCjMstQIyB2rO1AAXzq7pLYE5Jv0j5ByPGmK=s900-c-k-c0x00ffffff-no-rj",
+      "name": "Alex"
     },
     {
       "id": 3,
-      "email": "https://cdn.thredbo.com.au/wp-content/uploads/2017/03/07150540/Untitled-design-5-1500x900.jpg",
-      "password": "Super user3"
+      "email": "tawani5837@marikuza.com",
+      "password": "Super user3",
+      "avatar": "https://i.pinimg.com/originals/75/f3/bd/75f3bd2d17e4412d08f9bb9b7a4893af.jpg",
+      "name": "Pin"
     },
     {
-      "email": "se",
+      "email": "tawani78958@marikuza.com",
       "password": "111111111",
-      "id": 4
+      "id": 4,
+      "avatar": "https://i.pinimg.com/736x/db/4b/d9/db4bd9a788082636c04e687b13dc5a47.jpg",
+      "name": "Gourge"
     },
     {
-      "email": "ef",
+      "email": "risas70469@fectode.com",
       "password": "wdqdwq",
-      "id": 5
+      "id": 5,
+      "avatar": "https://avatars.mds.yandex.net/i?id=b6f00a17ca3176bf07e3b38d73ea95b3-4591921-images-thumbs&ref=rim&n=33&w=150&h=150",
+      "name": "Seric"
     },
     {
-      "email": "seric0@mail.ru",
+      "email": "seric0923@mail.ru",
       "password": "@123456s",
-      "id": 6
+      "id": 6,
+      "avatar": "https://ru-static.z-dn.net/files/dec/756eaa28dc830cfaf445eb41f563d511.jpg",
+      "name": "Ulankin"
     },
     {
-      "email": "seric_s@mail.ru",
+      "email": "seric_s0@mail.ru",
       "password": "@123456s",
-      "id": 7
+      "id": 7,
+      "avatar": "https://i.pinimg.com/originals/28/f0/81/28f081db466a8aff9ba56711860a5ffa.jpg",
+      "name": "Avt"
     },
     {
-      "email": "seric0@mail.ru",
+      "email": "seric009789@mail.kz",
       "password": "123456",
-      "id": 8
+      "id": 8,
+      "avatar": "https://i.pinimg.com/originals/28/f0/81/28f081db466a8aff9ba56711860a5ffa.jpg",
+      "name": "Pin on Avt"
     },
     {
-      "email": "12e223",
+      "email": "nafeyiw697@jthoven.com",
       "password": "4324322234",
-      "id": 9
+      "id": 9,
+      "avatar": "https://sun6-22.userapi.com/s/v1/ig2/A2nzK4GLkMqYIdZVqnbzYMlICpo26SPWcwOdrEZzCOmgFSIgJTXv8dpAzHSIA6QXSKlvmZZ7B7cIeag5LM6NXEVN.jpg?size=897x897&quality=95&crop=2,0,897,897&ava=1",
+      "name": "Olga"
     },
     {
-      "email": "серик",
-      "password": "серик",
-      "id": 10
+      "email": "yomikag303@mitigado.com",
+      "password": "123456",
+      "id": 10,
+      "avatar": "https://i.ibb.co/5Wn7QQH/user-avatar.png",
+      "name": "Maxvell"
     }
   ],
   "posts": [
@@ -58,73 +76,197 @@
       "id": 1,
       "userimage": "https://pbs.twimg.com/media/DD93tVLUQAAbvtA?format=jpg&name=900x900",
       "title": "11",
-      "usertext": "111"
+      "usertext": "111",
+      "userId": 1
     },
     {
       "id": 2,
       "userimage": "https://sun9-70.userapi.com/impg/CBNd4WyzhgW07joicO73dPRDbX9PpK00Zhxzjg/6krHls1a0aQ.jpg?size=1080x1080&quality=96&sign=fe7b9799015745c6feac86ceea357b1a&c_uniq_tag=VTZHRO18WK72ycF7vK4YnTjDFS6abGdP8fU3rFiwy_Q&type=album",
       "title": "22",
-      "usertext": "222"
+      "usertext": "222",
+      "userId": 1
     },
     {
       "id": 3,
       "userimage": "https://i.ibb.co/Zc7DhMN/card-3.png",
       "title": "This is cool story!",
-      "usertext": "333"
+      "usertext": "333",
+      "userId": 1
     },
     {
       "id": 4,
       "userimage": "https://sun9-70.userapi.com/impg/CBNd4WyzhgW07joicO73dPRDbX9PpK00Zhxzjg/6krHls1a0aQ.jpg?size=1080x1080&quality=96&sign=fe7b9799015745c6feac86ceea357b1a&c_uniq_tag=VTZHRO18WK72ycF7vK4YnTjDFS6abGdP8fU3rFiwy_Q&type=album",
       "title": "",
-      "usertext": ""
+      "usertext": "",
+      "userId": 1
     },
     {
       "id": 5,
       "userimage": "https://pbs.twimg.com/media/DD93tVLUQAAbvtA?format=jpg&name=900x900",
       "title": "",
-      "usertext": ""
+      "usertext": "",
+      "userId": 1
     },
     {
       "id": 6,
       "userimage": "https://i.ibb.co/z769Bjg/card-6.png",
       "title": "",
-      "usertext": ""
+      "usertext": "",
+      "userId": 2
     },
     {
       "id": 7,
       "userimage": "https://pbs.twimg.com/media/DD93tVLUQAAbvtA?format=jpg&name=900x900",
       "title": "",
-      "usertext": ""
+      "usertext": "",
+      "userId": 2
     },
     {
       "id": 8,
       "userimage": "https://i.ibb.co/z769Bjg/card-6.png",
       "title": "",
-      "usertext": ""
+      "usertext": "",
+      "userId": 2
     },
     {
       "id": 9,
       "userimage": "https://sun9-70.userapi.com/impg/CBNd4WyzhgW07joicO73dPRDbX9PpK00Zhxzjg/6krHls1a0aQ.jpg?size=1080x1080&quality=96&sign=fe7b9799015745c6feac86ceea357b1a&c_uniq_tag=VTZHRO18WK72ycF7vK4YnTjDFS6abGdP8fU3rFiwy_Q&type=album",
       "title": "",
-      "usertext": ""
+      "usertext": "",
+      "userId": 3
     },
     {
       "userimage": "https://avatars.mds.yandex.net/i?id=815b63b0fb67826e6dbfbd985e4a89fa-5697688-images-thumbs&n=13",
       "title": "erwewr",
       "usertext": "erwwwwwwwwwwwwwww",
-      "id": 10
+      "id": 10,
+      "userId": 3
     },
     {
       "userimage": "https://avatars.mds.yandex.net/i?id=815b63b0fb67826e6dbfbd985e4a89fa-5697688-images-thumbs&n=13",
       "title": "erweerw",
       "usertext": "weerwere",
-      "id": 11
+      "id": 11,
+      "userId": 3
     },
     {
       "userimage": "https://avatars.mds.yandex.net/i?id=815b63b0fb67826e6dbfbd985e4a89fa-5697688-images-thumbs&n=13",
       "title": "3453543",
       "usertext": "fefjhgjhfjhfhefke4y",
-      "id": 13
+      "id": 13,
+      "userId": 3
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=6aaebb8d9dde14c336289db3acf60638520b7d86-8502968-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 3,
+      "id": 14
+    },
+    {
+      "userimage": "https://fikiwiki.com/uploads/posts/2022-02/1644859417_9-fikiwiki-com-p-kartinki-krasivikh-devushek-bryunetok-12.jpg",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 3,
+      "id": 16
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 3,
+      "id": 17
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 2,
+      "id": 18
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 2,
+      "id": 19
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 2,
+      "id": 20
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 2,
+      "id": 21
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=1444633ba97f8ffa8ec24e9b63f49c93787806d6-8497831-images-thumbs&n=13",
+      "title": "Girl Avatar",
+      "usertext": "Girl Avatar",
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "userimage": "https://wp-s.ru/wallpapers/3/16/453546356300604/strojnaya-dnvushka-i-plate-v-gorox.jpg",
+      "title": "Девушка в платье",
+      "usertext": "Девушка в платье",
+      "userId": 1,
+      "id": 29
+    },
+    {
+      "userimage": "http://www.aiutamici.com/PortalWeb/Wallpaper/Donne/DON_09741.jpg",
+      "title": "девушка",
+      "usertext": "девушка",
+      "userId": 1,
+      "id": 30
+    },
+    {
+      "userimage": "https://avatars.mds.yandex.net/i?id=f38d44be093118da73174a664d6042b1926da4f4-8496986-images-thumbs&n=13",
+      "title": "Девушка в красном",
+      "usertext": "Девушка в красном",
+      "userId": 1,
+      "id": 31
     }
   ]
 }
